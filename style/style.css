@@ -1,8 +1,8 @@
-img {
-  width: 100%;              /* Set the width to 100% of the container */
-  max-width: 200px;        /* Limit the maximum width to 200px */
-  height: auto;            /* Maintain aspect ratio */
-  border-radius: 50%;      /* Create a circular shape */
-  object-fit: cover;       /* Cover the area, cropping as necessary */
-  object-position: center;  /* Center the image within the circle */
+.profile-image {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
 }
